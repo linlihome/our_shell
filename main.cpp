@@ -15,7 +15,7 @@
 #define ANSI_COLOR_RESET   "\x1b[0m"
 #define ANSI_COLOR_BLUE    "\x1b[34m"
 #define ANSI_COLOR_GREEN   "\x1b[32m"
-#define HISTORY_FILE_PATH "/home/fan/桌面/shell/history.txt"
+#define HISTORY_FILE_PATH "./history.txt"
 
 void sys_help();
 void sys_ls(char ** s);
